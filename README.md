@@ -1,5 +1,6 @@
 
-[![Header](https://raw.githubusercontent.com/cmpietro/<OWNER>/<OWNER>/Readme_Header.png "Header")](https://github.com/cmpietro/cmpietro/blob/master/Readme_Header.png/)
+[![Header](https://github.com/cmpietro/cmpietro/blob/master/Readme_Header.png "Header")]
+
 
 ### Hi there 👋
 
