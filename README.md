@@ -10,7 +10,9 @@ My name is Carol Kadish and I have two main passions; Data and Yoga.  I currentl
 
 ## STATS
 
-![Carol's github stats](https://github-readme-stats.vercel.app/api?username=cmpietro)(https://github.com/anuraghazra/github-readme-stats)
+![Carol's github stats](https://github-readme-stats.vercel.app/api?username=cmpietro)<!--(https://github.com/anuraghazra/github-readme-stats)-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmpietro) <!--(https://github.com/anuraghazra/github-readme-stats)-->
 <!--
 **cmpietro/cmpietro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
