@@ -1,8 +1,12 @@
 
-[![Header](https://github.com/cmpietro/cmpietro/blob/master/Readme_Header.png "Header")]
+[![Header](https://github.com/cmpietro/cmpietro/blob/master/Readme_Header.png "Header")
 
 
-### Hi there 👋
+### Hi and Welcome 👋
+
+## INTRO
+
+My name is Carol Kadish and I have two main passions; Data and Yoga.  I currently am a TA for Trilogy at Case Western University for the Data Science Course and I am a part-time Yoga instructor.  
 
 <!--
 **cmpietro/cmpietro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
