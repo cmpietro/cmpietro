@@ -6,7 +6,7 @@
 
 ## INTRO
 
-My name is Carol Kadish and I have two main passions; Data and Yoga.  I currently am a TA for Trilogy at Case Western University for the Data Science Course and I am a part-time Yoga instructor.  
+My name is Carol Kadish and I have two main passions; Data and Yoga.  I am currently working as a teachers assistant (TA) for Trilogy at Case Western University for the Data Science Course. I am also working as a part-time Yoga instructor helping private clients virtually or outdoors.  
 
 ## STATS
 
